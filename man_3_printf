@@ -93,4 +93,4 @@ _printf does not take care of precision yet. For example, _printf(\(dq%.56x\(dq)
 OBOBOB-Ther are some undefined behaviours with some edge cases like printing '%' and so on. (querks here and there)
 -The printerqeue(the buffer)doesnt always store 1024 character before making the sytem calls ther are some unidentified problems
 .SH AUTHORS
-Kelvin Madaura and Richard Jackson, Cohort 4.
+Kelvin Madaura, Cohort 4.

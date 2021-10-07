@@ -1,5 +1,5 @@
-#include "holberton.h"
-#include <stdlib.h>
+#include "main.h"
+#include <stdio.h>
 
 /**
  * check_for_specifiers - checks if there is a valid format specifier
